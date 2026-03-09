@@ -12,3 +12,5 @@ https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Tools/6.0.9
 
 # Si descargas el proyecto y no quieres instalar los paquetes
 Ejecuta en la consola: dotnet restore Para que se te instalen automaticamente
+
+# Proyecto terminado.
